@@ -21,10 +21,10 @@ function toDense(sparse) {
     newArray.push(sparse[i]);
   }
 }
-    console.log(newArray);
+console.log(newArray);
 return newArray;
 }
-    toDense(sparse);
+toDense(sparse);
 	
 	// better below
 	
